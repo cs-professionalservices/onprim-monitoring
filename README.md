@@ -5,6 +5,19 @@ No installation required.
 
 ---
 
+## Download executable to system directly
+
+To download the files directly to system and not transfer via ssh, **wget** can be used for the same.
+
+**Linux**
+wget https://github.com/cs-professionalservices/onprim-monitoring/raw/refs/heads/main/psutil_onprem_metric
+
+**Windows**
+wget https://github.com/cs-professionalservices/onprim-monitoring/raw/refs/heads/main/psutil_onprem_metric.exe
+
+---
+
+## SSH BASED FILE TRANSFER
 ## 🐧 Linux (RHEL / Rocky / Ubuntu)
 
 ### Copy file to server
